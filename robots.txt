@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty-na-dengi-sberbank.github.io
+Sitemap: https://igrovye-avtomaty-na-dengi-sberbank.github.io/sitemap.xml
